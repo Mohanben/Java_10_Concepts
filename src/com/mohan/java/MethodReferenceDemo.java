@@ -3,10 +3,6 @@
  */
 package com.mohan.java;
 
-/**
- * @author mchandra
- *
- */
 @FunctionalInterface
 interface MyInterface {
 	void display();

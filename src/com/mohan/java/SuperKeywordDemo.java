@@ -5,10 +5,6 @@ package com.mohan.java;
 
 import com.hackerrank.java.SuperKeywordDemo.Student.Name;
 
-/**
- * @author mchandra
- *
- */
 public class SuperKeywordDemo extends Person {
 
 	static class Student {

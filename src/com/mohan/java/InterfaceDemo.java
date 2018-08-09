@@ -3,10 +3,6 @@
  */
 package com.mohan.java;
 
-/**
- * @author mchandra
- *
- */
 public class InterfaceDemo implements onRegistration {
 
 	static ConnectInterface connectInterface;

@@ -3,10 +3,6 @@
  */
 package com.mohan.java;
 
-/**
- * @author mchandra
- *
- */
 public class LamdaExpressionDemo {
 
 	public static final int A = 10;

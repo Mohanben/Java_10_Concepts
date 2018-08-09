@@ -3,10 +3,6 @@
  */
 package com.mohan.java.java;
 
-/**
- * @author mchandra
- *
- */
 public class MethodReferenceDemo {
 
 	/**

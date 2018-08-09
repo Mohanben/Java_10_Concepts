@@ -5,10 +5,6 @@ package com.mohan.java;
 
 import java.util.Scanner;
 
-/**
- * @author mchandra
- *
- */
 public class DemoInterface extends InterfaceDefinition {
 
 	/**

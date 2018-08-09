@@ -17,7 +17,7 @@ public class TestDemo {
 	}
 
 	public TestDemo() {
-		name = "mohanben22@gmail.com";
+		name = "xxxxxxxx@gmail.com";
 		System.out.println("Constructoe is called");
 	}
 
@@ -33,7 +33,7 @@ public class TestDemo {
 	public static void main(String[] args) {
 		TestDemo demo = new TestDemo();
 		System.out.println(demo.name);
-		TestDemo testDemo = new TestDemo(122, "Volvo Cars");
+		TestDemo testDemo = new TestDemo(122, "xxxxx");
 		testDemo.getVehicleInfo();
 	}
 
